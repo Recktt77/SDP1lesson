@@ -1,3 +1,4 @@
+package ass4;
 interface Command {
     void execute();
 }

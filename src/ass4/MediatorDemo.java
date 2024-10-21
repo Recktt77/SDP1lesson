@@ -1,3 +1,5 @@
+package ass4;
+
 interface Mediator {
     void sendMessage(String message, Colleague colleague);
 }
